@@ -60,14 +60,16 @@
 
   /* 4 columns */
   .col-4 {
+    width: 33.33%;
   }
 
   /* 6 columns */
   .col-6 {
-
+    width: 50%;
   }
 
   /* 12 columns */
   .col-12 {
+    width: 100%;
   }
 }
